@@ -23,16 +23,16 @@
 			"plugins": "git git-flow F-Sy-H zsh-autosuggestions zsh-completions",
 			"omzPlugins": "https://github.com/z-shell/F-Sy-H https://github.com/zsh-users/zsh-autosuggestions https://github.com/zsh-users/zsh-completions"
 		},
-		"ghcr.io/stuartleeks/dev-container-features/shell-history:0": {},
-		"customizations": {
-			"vscode": {
-				"extensions": [
-					"bradlc.vscode-tailwindcss",
-					"humao.rest-client",
-					"esbenp.prettier-vscode",
-					"dbaeumer.vscode-eslint"
-				]
-			}
+		"ghcr.io/stuartleeks/dev-container-features/shell-history:0": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"humao.rest-client",
+				"esbenp.prettier-vscode",
+				"dbaeumer.vscode-eslint",
+				"bradlc.vscode-tailwindcss"
+			]
 		}
 	}
 
