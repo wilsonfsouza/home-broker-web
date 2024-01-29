@@ -125,6 +125,32 @@
         "price": 30
       },
       "id": 7
+    },
+    {
+      "asset_id": "asset1",
+      "shares": "2",
+      "price": "1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": 10
+    },
+    {
+      "asset_id": "asset1",
+      "shares": 2,
+      "price": 2,
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": 15
     }
   ]
 }
